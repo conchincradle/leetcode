@@ -1,0 +1,4 @@
+- [207. Course Schedule](https://leetcode.cn/problems/course-schedule/)
+- 还是很不熟练！很容易就忘记，不可能在30分钟内做出来的，所以要多练习
+- 01: BFS, 选择入度为0的的顶点删除以及删除它的边
+- 02: DFS
